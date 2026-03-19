@@ -1,0 +1,586 @@
+user_id,session_type,question_number,difficulty,is_correct,user_answer
+1N7UGUGuQHhcaUyk5AnPXTVxsDd2,arraylist,0,1,True,ArrayList can change size dynamically
+1N7UGUGuQHhcaUyk5AnPXTVxsDd2,arraylist,1,2,True,It creates a larger internal array and copies elements
+1N7UGUGuQHhcaUyk5AnPXTVxsDd2,arraylist,2,3,True,Getting an element by index
+1N7UGUGuQHhcaUyk5AnPXTVxsDd2,arraylist,3,2,True,10
+1N7UGUGuQHhcaUyk5AnPXTVxsDd2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+1N7UGUGuQHhcaUyk5AnPXTVxsDd2,recursion,0,1,True,A base case
+1N7UGUGuQHhcaUyk5AnPXTVxsDd2,recursion,1,2,False,It returns 0
+1N7UGUGuQHhcaUyk5AnPXTVxsDd2,recursion,2,3,True,The call stack
+1N7UGUGuQHhcaUyk5AnPXTVxsDd2,recursion,3,2,False,9
+1N7UGUGuQHhcaUyk5AnPXTVxsDd2,recursion,4,3,True,n == 0 or n == 1
+2cjI20Jq7PYlvEozFwC9A1koWYG3,arraylist,0,1,True,ArrayList can change size dynamically
+2cjI20Jq7PYlvEozFwC9A1koWYG3,arraylist,1,2,True,It creates a larger internal array and copies elements
+2cjI20Jq7PYlvEozFwC9A1koWYG3,arraylist,2,3,True,Getting an element by index
+2cjI20Jq7PYlvEozFwC9A1koWYG3,arraylist,3,2,True,10
+2cjI20Jq7PYlvEozFwC9A1koWYG3,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+2cjI20Jq7PYlvEozFwC9A1koWYG3,recursion,0,1,True,A base case
+2cjI20Jq7PYlvEozFwC9A1koWYG3,recursion,1,2,True,It runs forever until stack overflow
+2cjI20Jq7PYlvEozFwC9A1koWYG3,recursion,2,3,True,The call stack
+2cjI20Jq7PYlvEozFwC9A1koWYG3,recursion,3,2,True,6
+2cjI20Jq7PYlvEozFwC9A1koWYG3,recursion,4,3,False,n == 0
+2gu7Ew3WFuME2poY733nrLDG6oh2,arraylist,0,1,False,ArrayList can only store integers
+2gu7Ew3WFuME2poY733nrLDG6oh2,arraylist,1,2,False,It stops accepting new elements
+2gu7Ew3WFuME2poY733nrLDG6oh2,arraylist,2,3,True,Getting an element by index
+2gu7Ew3WFuME2poY733nrLDG6oh2,arraylist,3,2,False,100
+2gu7Ew3WFuME2poY733nrLDG6oh2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+2gu7Ew3WFuME2poY733nrLDG6oh2,recursion,0,1,True,A base case
+2gu7Ew3WFuME2poY733nrLDG6oh2,recursion,1,2,True,It runs forever until stack overflow
+2gu7Ew3WFuME2poY733nrLDG6oh2,recursion,2,3,True,The call stack
+2gu7Ew3WFuME2poY733nrLDG6oh2,recursion,3,2,False,12
+2gu7Ew3WFuME2poY733nrLDG6oh2,recursion,4,3,False,n == 0
+2vunfpisHmM5VbtDlhDmIwc3xU32,arraylist,0,1,True,ArrayList can change size dynamically
+2vunfpisHmM5VbtDlhDmIwc3xU32,arraylist,1,2,False,It throws an error
+2vunfpisHmM5VbtDlhDmIwc3xU32,arraylist,2,3,True,Getting an element by index
+2vunfpisHmM5VbtDlhDmIwc3xU32,arraylist,3,2,False,0
+2vunfpisHmM5VbtDlhDmIwc3xU32,arraylist,4,4,False,"When storing a fixed number of elements whose maximum size is known at compile time and will not change, such as the 12 months of the year or 7 days of the week."
+2vunfpisHmM5VbtDlhDmIwc3xU32,recursion,0,1,True,A base case
+2vunfpisHmM5VbtDlhDmIwc3xU32,recursion,1,2,True,It runs forever until stack overflow
+2vunfpisHmM5VbtDlhDmIwc3xU32,recursion,2,3,True,The call stack
+2vunfpisHmM5VbtDlhDmIwc3xU32,recursion,3,2,False,3
+2vunfpisHmM5VbtDlhDmIwc3xU32,recursion,4,3,False,n == 0
+3UffSYWwSYT49RFDHcvUB5KtoXi1,arraylist,0,1,True,ArrayList can change size dynamically
+3UffSYWwSYT49RFDHcvUB5KtoXi1,arraylist,1,2,False,It stops accepting new elements
+3UffSYWwSYT49RFDHcvUB5KtoXi1,arraylist,2,3,False,Adding an element at the beginning
+3UffSYWwSYT49RFDHcvUB5KtoXi1,arraylist,3,2,False,0
+3UffSYWwSYT49RFDHcvUB5KtoXi1,arraylist,4,4,False,When implementing direct memory mapping with fixed buffer sizes for low-level hardware interfacing.
+3UffSYWwSYT49RFDHcvUB5KtoXi1,recursion,0,1,True,A base case
+3UffSYWwSYT49RFDHcvUB5KtoXi1,recursion,1,2,True,It runs forever until stack overflow
+3UffSYWwSYT49RFDHcvUB5KtoXi1,recursion,2,3,True,The call stack
+3UffSYWwSYT49RFDHcvUB5KtoXi1,recursion,3,2,True,6
+3UffSYWwSYT49RFDHcvUB5KtoXi1,recursion,4,3,False,n == 0
+4fkXnQD0eogEhmMR7gILBGmVTnN2,arraylist,0,1,True,ArrayList can change size dynamically
+4fkXnQD0eogEhmMR7gILBGmVTnN2,arraylist,1,2,True,It creates a larger internal array and copies elements
+4fkXnQD0eogEhmMR7gILBGmVTnN2,arraylist,2,3,True,Getting an element by index
+4fkXnQD0eogEhmMR7gILBGmVTnN2,arraylist,3,2,False,1
+4fkXnQD0eogEhmMR7gILBGmVTnN2,arraylist,4,4,False,When implementing direct memory mapping with fixed buffer sizes for low-level hardware interfacing.
+4fkXnQD0eogEhmMR7gILBGmVTnN2,recursion,0,1,True,A base case
+4fkXnQD0eogEhmMR7gILBGmVTnN2,recursion,1,2,False,It returns 0
+4fkXnQD0eogEhmMR7gILBGmVTnN2,recursion,2,3,True,The call stack
+4fkXnQD0eogEhmMR7gILBGmVTnN2,recursion,3,2,True,6
+4fkXnQD0eogEhmMR7gILBGmVTnN2,recursion,4,3,False,n < 0
+4j3q4ExCuPWAUynzXiAlr6ucB8U2,arraylist,0,1,True,ArrayList can change size dynamically
+4j3q4ExCuPWAUynzXiAlr6ucB8U2,arraylist,1,2,True,It creates a larger internal array and copies elements
+4j3q4ExCuPWAUynzXiAlr6ucB8U2,arraylist,2,3,True,Getting an element by index
+4j3q4ExCuPWAUynzXiAlr6ucB8U2,arraylist,3,2,False,0
+4j3q4ExCuPWAUynzXiAlr6ucB8U2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+8FArll2EzIVIkMtZUzAz1TTYsE42,arraylist,0,1,True,ArrayList can change size dynamically
+8FArll2EzIVIkMtZUzAz1TTYsE42,arraylist,1,2,False,It stops accepting new elements
+8FArll2EzIVIkMtZUzAz1TTYsE42,arraylist,2,3,True,Getting an element by index
+8FArll2EzIVIkMtZUzAz1TTYsE42,arraylist,3,2,False,100
+8FArll2EzIVIkMtZUzAz1TTYsE42,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+8FArll2EzIVIkMtZUzAz1TTYsE42,recursion,0,1,False,A loop
+8FArll2EzIVIkMtZUzAz1TTYsE42,recursion,1,2,False,It returns 0
+8FArll2EzIVIkMtZUzAz1TTYsE42,recursion,2,3,True,The call stack
+8FArll2EzIVIkMtZUzAz1TTYsE42,recursion,3,2,False,3
+8FArll2EzIVIkMtZUzAz1TTYsE42,recursion,4,3,False,n < 0
+8WXvj2Se6NWVg3o0t5LWRcdtZR23,arraylist,0,1,True,ArrayList can change size dynamically
+8WXvj2Se6NWVg3o0t5LWRcdtZR23,arraylist,1,2,True,It creates a larger internal array and copies elements
+8WXvj2Se6NWVg3o0t5LWRcdtZR23,arraylist,2,3,True,Getting an element by index
+8WXvj2Se6NWVg3o0t5LWRcdtZR23,arraylist,3,2,True,10
+8WXvj2Se6NWVg3o0t5LWRcdtZR23,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+8fG4SHm1oeaJFrWvzV3YHsSYlJf2,arraylist,0,1,True,ArrayList can change size dynamically
+8fG4SHm1oeaJFrWvzV3YHsSYlJf2,arraylist,1,2,True,It creates a larger internal array and copies elements
+8fG4SHm1oeaJFrWvzV3YHsSYlJf2,arraylist,2,3,True,Getting an element by index
+8fG4SHm1oeaJFrWvzV3YHsSYlJf2,arraylist,3,2,True,10
+8fG4SHm1oeaJFrWvzV3YHsSYlJf2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+A5Y2HAkGMmenqS1vZuPyOg721Ab2,arraylist,0,1,True,ArrayList can change size dynamically
+A5Y2HAkGMmenqS1vZuPyOg721Ab2,arraylist,1,2,False,It throws an error
+A5Y2HAkGMmenqS1vZuPyOg721Ab2,arraylist,2,3,True,Getting an element by index
+A5Y2HAkGMmenqS1vZuPyOg721Ab2,arraylist,3,2,False,100
+A5Y2HAkGMmenqS1vZuPyOg721Ab2,arraylist,4,4,False,When designing high-performance math computations that require storing primitive data types without the overhead of autoboxing.
+A5Y2HAkGMmenqS1vZuPyOg721Ab2,recursion,0,1,False,Multiple parameters
+A5Y2HAkGMmenqS1vZuPyOg721Ab2,recursion,1,2,True,It runs forever until stack overflow
+A5Y2HAkGMmenqS1vZuPyOg721Ab2,recursion,2,3,False,The heap
+A5Y2HAkGMmenqS1vZuPyOg721Ab2,recursion,3,2,False,9
+A5Y2HAkGMmenqS1vZuPyOg721Ab2,recursion,4,3,True,n == 0 or n == 1
+Ap3pD2rpHsQCNW7UJLOZxuvXmtR2,arraylist,0,1,True,ArrayList can change size dynamically
+Ap3pD2rpHsQCNW7UJLOZxuvXmtR2,arraylist,1,2,True,It creates a larger internal array and copies elements
+Ap3pD2rpHsQCNW7UJLOZxuvXmtR2,arraylist,2,3,False,Adding an element at the beginning
+Ap3pD2rpHsQCNW7UJLOZxuvXmtR2,arraylist,3,2,True,10
+Ap3pD2rpHsQCNW7UJLOZxuvXmtR2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+Ap3pD2rpHsQCNW7UJLOZxuvXmtR2,recursion,0,1,True,A base case
+Ap3pD2rpHsQCNW7UJLOZxuvXmtR2,recursion,1,2,True,It runs forever until stack overflow
+Ap3pD2rpHsQCNW7UJLOZxuvXmtR2,recursion,2,3,True,The call stack
+Ap3pD2rpHsQCNW7UJLOZxuvXmtR2,recursion,3,2,True,6
+Ap3pD2rpHsQCNW7UJLOZxuvXmtR2,recursion,4,3,True,n == 0 or n == 1
+Cw1J6bytlETCGP7iW7vknzWZwon1,arraylist,0,1,True,ArrayList can change size dynamically
+Cw1J6bytlETCGP7iW7vknzWZwon1,arraylist,1,2,True,It creates a larger internal array and copies elements
+Cw1J6bytlETCGP7iW7vknzWZwon1,arraylist,2,3,True,Getting an element by index
+Cw1J6bytlETCGP7iW7vknzWZwon1,arraylist,3,2,False,1
+Cw1J6bytlETCGP7iW7vknzWZwon1,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+Cw1J6bytlETCGP7iW7vknzWZwon1,recursion,0,1,True,A base case
+Cw1J6bytlETCGP7iW7vknzWZwon1,recursion,1,2,True,It runs forever until stack overflow
+Cw1J6bytlETCGP7iW7vknzWZwon1,recursion,2,3,True,The call stack
+Cw1J6bytlETCGP7iW7vknzWZwon1,recursion,3,2,True,6
+Cw1J6bytlETCGP7iW7vknzWZwon1,recursion,4,3,False,n == 0
+Cy1bhEOuQfMnlNyCLBPA7vkrRmJ3,arraylist,0,1,True,ArrayList can change size dynamically
+Cy1bhEOuQfMnlNyCLBPA7vkrRmJ3,arraylist,1,2,True,It creates a larger internal array and copies elements
+Cy1bhEOuQfMnlNyCLBPA7vkrRmJ3,arraylist,2,3,True,Getting an element by index
+Cy1bhEOuQfMnlNyCLBPA7vkrRmJ3,arraylist,3,2,False,1
+Cy1bhEOuQfMnlNyCLBPA7vkrRmJ3,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+Cy1bhEOuQfMnlNyCLBPA7vkrRmJ3,recursion,0,1,True,A base case
+Cy1bhEOuQfMnlNyCLBPA7vkrRmJ3,recursion,1,2,True,It runs forever until stack overflow
+Cy1bhEOuQfMnlNyCLBPA7vkrRmJ3,recursion,2,3,True,The call stack
+Cy1bhEOuQfMnlNyCLBPA7vkrRmJ3,recursion,3,2,True,6
+Cy1bhEOuQfMnlNyCLBPA7vkrRmJ3,recursion,4,3,True,n == 0 or n == 1
+Drr17Zvgk1OAYiRiO5HB65aVP223,arraylist,0,1,True,ArrayList can change size dynamically
+Drr17Zvgk1OAYiRiO5HB65aVP223,arraylist,1,2,False,It stops accepting new elements
+Drr17Zvgk1OAYiRiO5HB65aVP223,arraylist,2,3,False,Adding an element at the beginning
+Drr17Zvgk1OAYiRiO5HB65aVP223,arraylist,3,2,True,10
+Drr17Zvgk1OAYiRiO5HB65aVP223,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+EFwq3AOMH7WLfBMBk8sUGzWOpo13,arraylist,0,1,False,ArrayList is faster for all operations
+EFwq3AOMH7WLfBMBk8sUGzWOpo13,arraylist,1,2,True,It creates a larger internal array and copies elements
+EFwq3AOMH7WLfBMBk8sUGzWOpo13,arraylist,2,3,False,Adding an element at the beginning
+EFwq3AOMH7WLfBMBk8sUGzWOpo13,arraylist,3,2,True,10
+EFwq3AOMH7WLfBMBk8sUGzWOpo13,arraylist,4,4,False,When implementing direct memory mapping with fixed buffer sizes for low-level hardware interfacing.
+EFwq3AOMH7WLfBMBk8sUGzWOpo13,recursion,0,1,False,A loop
+EFwq3AOMH7WLfBMBk8sUGzWOpo13,recursion,1,2,False,It automatically stops after 100 calls
+EFwq3AOMH7WLfBMBk8sUGzWOpo13,recursion,2,3,False,The heap
+EFwq3AOMH7WLfBMBk8sUGzWOpo13,recursion,3,2,False,9
+EFwq3AOMH7WLfBMBk8sUGzWOpo13,recursion,4,3,False,n == 0
+FBD4nXyHiTMSMBoY3sAwLJrAvzo2,arraylist,0,1,True,ArrayList can change size dynamically
+FBD4nXyHiTMSMBoY3sAwLJrAvzo2,arraylist,1,2,True,It creates a larger internal array and copies elements
+FBD4nXyHiTMSMBoY3sAwLJrAvzo2,arraylist,2,3,True,Getting an element by index
+FBD4nXyHiTMSMBoY3sAwLJrAvzo2,arraylist,3,2,True,10
+FBD4nXyHiTMSMBoY3sAwLJrAvzo2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+FBD4nXyHiTMSMBoY3sAwLJrAvzo2,recursion,0,1,True,A base case
+FBD4nXyHiTMSMBoY3sAwLJrAvzo2,recursion,1,2,True,It runs forever until stack overflow
+FBD4nXyHiTMSMBoY3sAwLJrAvzo2,recursion,2,3,True,The call stack
+FBD4nXyHiTMSMBoY3sAwLJrAvzo2,recursion,3,2,True,6
+FBD4nXyHiTMSMBoY3sAwLJrAvzo2,recursion,4,3,True,n == 0 or n == 1
+Ffy5aWTnDLO2hBu1SSV3TG1ElgN2,arraylist,0,1,True,ArrayList can change size dynamically
+Ffy5aWTnDLO2hBu1SSV3TG1ElgN2,arraylist,1,2,True,It creates a larger internal array and copies elements
+Ffy5aWTnDLO2hBu1SSV3TG1ElgN2,arraylist,2,3,False,Finding an element by value
+Ffy5aWTnDLO2hBu1SSV3TG1ElgN2,arraylist,3,2,False,0
+Ffy5aWTnDLO2hBu1SSV3TG1ElgN2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+Ffy5aWTnDLO2hBu1SSV3TG1ElgN2,recursion,0,1,True,A base case
+Ffy5aWTnDLO2hBu1SSV3TG1ElgN2,recursion,1,2,True,It runs forever until stack overflow
+Ffy5aWTnDLO2hBu1SSV3TG1ElgN2,recursion,2,3,True,The call stack
+Ffy5aWTnDLO2hBu1SSV3TG1ElgN2,recursion,3,2,False,3
+Ffy5aWTnDLO2hBu1SSV3TG1ElgN2,recursion,4,3,True,n == 0 or n == 1
+GJDwIBFMZqQZs7zM0dOjWhLG0hI2,arraylist,0,1,True,ArrayList can change size dynamically
+GJDwIBFMZqQZs7zM0dOjWhLG0hI2,arraylist,1,2,True,It creates a larger internal array and copies elements
+GJDwIBFMZqQZs7zM0dOjWhLG0hI2,arraylist,2,3,True,Getting an element by index
+GJDwIBFMZqQZs7zM0dOjWhLG0hI2,arraylist,3,2,False,0
+GJDwIBFMZqQZs7zM0dOjWhLG0hI2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+GvnIW82Cgrf3LJBW6p81W5L8LnD3,arraylist,0,1,True,ArrayList can change size dynamically
+GvnIW82Cgrf3LJBW6p81W5L8LnD3,arraylist,1,2,True,It creates a larger internal array and copies elements
+GvnIW82Cgrf3LJBW6p81W5L8LnD3,arraylist,2,3,True,Getting an element by index
+GvnIW82Cgrf3LJBW6p81W5L8LnD3,arraylist,3,2,False,0
+GvnIW82Cgrf3LJBW6p81W5L8LnD3,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+GvnIW82Cgrf3LJBW6p81W5L8LnD3,recursion,0,1,True,A base case
+GvnIW82Cgrf3LJBW6p81W5L8LnD3,recursion,1,2,True,It runs forever until stack overflow
+GvnIW82Cgrf3LJBW6p81W5L8LnD3,recursion,2,3,True,The call stack
+GvnIW82Cgrf3LJBW6p81W5L8LnD3,recursion,3,2,True,6
+GvnIW82Cgrf3LJBW6p81W5L8LnD3,recursion,4,3,True,n == 0 or n == 1
+HQk1KKqGojXqkWFqQvcsz46SW2v2,arraylist,0,1,True,ArrayList can change size dynamically
+HQk1KKqGojXqkWFqQvcsz46SW2v2,arraylist,1,2,True,It creates a larger internal array and copies elements
+HQk1KKqGojXqkWFqQvcsz46SW2v2,arraylist,2,3,False,Finding an element by value
+HQk1KKqGojXqkWFqQvcsz46SW2v2,arraylist,3,2,False,0
+HQk1KKqGojXqkWFqQvcsz46SW2v2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+HQk1KKqGojXqkWFqQvcsz46SW2v2,recursion,0,1,True,A base case
+HQk1KKqGojXqkWFqQvcsz46SW2v2,recursion,1,2,True,It runs forever until stack overflow
+HQk1KKqGojXqkWFqQvcsz46SW2v2,recursion,2,3,True,The call stack
+HQk1KKqGojXqkWFqQvcsz46SW2v2,recursion,3,2,False,12
+HQk1KKqGojXqkWFqQvcsz46SW2v2,recursion,4,3,True,n == 0 or n == 1
+KW6di9CW3cZQz1cvFlBzH6caubz1,arraylist,0,1,False,ArrayList is faster for all operations
+KW6di9CW3cZQz1cvFlBzH6caubz1,arraylist,1,2,True,It creates a larger internal array and copies elements
+KW6di9CW3cZQz1cvFlBzH6caubz1,arraylist,2,3,False,Adding an element at the beginning
+KW6di9CW3cZQz1cvFlBzH6caubz1,arraylist,3,2,False,0
+KW6di9CW3cZQz1cvFlBzH6caubz1,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+KW6di9CW3cZQz1cvFlBzH6caubz1,recursion,0,1,True,A base case
+KW6di9CW3cZQz1cvFlBzH6caubz1,recursion,1,2,True,It runs forever until stack overflow
+KW6di9CW3cZQz1cvFlBzH6caubz1,recursion,2,3,True,The call stack
+KW6di9CW3cZQz1cvFlBzH6caubz1,recursion,3,2,False,3
+KW6di9CW3cZQz1cvFlBzH6caubz1,recursion,4,3,False,n < 0
+MO1hlfN2dTWzRqz7yqvv5obstej1,arraylist,0,1,True,ArrayList can change size dynamically
+MO1hlfN2dTWzRqz7yqvv5obstej1,arraylist,1,2,True,It creates a larger internal array and copies elements
+MO1hlfN2dTWzRqz7yqvv5obstej1,arraylist,2,3,True,Getting an element by index
+MO1hlfN2dTWzRqz7yqvv5obstej1,arraylist,3,2,False,0
+MO1hlfN2dTWzRqz7yqvv5obstej1,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+MO1hlfN2dTWzRqz7yqvv5obstej1,recursion,0,1,True,A base case
+MO1hlfN2dTWzRqz7yqvv5obstej1,recursion,1,2,True,It runs forever until stack overflow
+MO1hlfN2dTWzRqz7yqvv5obstej1,recursion,2,3,True,The call stack
+MO1hlfN2dTWzRqz7yqvv5obstej1,recursion,3,2,True,6
+MO1hlfN2dTWzRqz7yqvv5obstej1,recursion,4,3,True,n == 0 or n == 1
+ODtPgaYltnMjEuRhGhqPzZyix2c2,arraylist,0,1,False,ArrayList is faster for all operations
+ODtPgaYltnMjEuRhGhqPzZyix2c2,arraylist,1,2,True,It creates a larger internal array and copies elements
+ODtPgaYltnMjEuRhGhqPzZyix2c2,arraylist,2,3,True,Getting an element by index
+ODtPgaYltnMjEuRhGhqPzZyix2c2,arraylist,3,2,False,100
+ODtPgaYltnMjEuRhGhqPzZyix2c2,arraylist,4,4,False,When designing high-performance math computations that require storing primitive data types without the overhead of autoboxing.
+ODtPgaYltnMjEuRhGhqPzZyix2c2,recursion,0,1,True,A base case
+ODtPgaYltnMjEuRhGhqPzZyix2c2,recursion,1,2,True,It runs forever until stack overflow
+ODtPgaYltnMjEuRhGhqPzZyix2c2,recursion,2,3,True,The call stack
+ODtPgaYltnMjEuRhGhqPzZyix2c2,recursion,3,2,True,6
+ODtPgaYltnMjEuRhGhqPzZyix2c2,recursion,4,3,False,n < 0
+Q5gYbivZ5ZZ5YOEZoEeLOBp3cPO2,arraylist,0,1,True,ArrayList can change size dynamically
+Q5gYbivZ5ZZ5YOEZoEeLOBp3cPO2,arraylist,1,2,False,It stops accepting new elements
+Q5gYbivZ5ZZ5YOEZoEeLOBp3cPO2,arraylist,2,3,False,Finding an element by value
+Q5gYbivZ5ZZ5YOEZoEeLOBp3cPO2,arraylist,3,2,False,0
+Q5gYbivZ5ZZ5YOEZoEeLOBp3cPO2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+Q5gYbivZ5ZZ5YOEZoEeLOBp3cPO2,recursion,0,1,False,A return type of int
+Q5gYbivZ5ZZ5YOEZoEeLOBp3cPO2,recursion,1,2,False,It returns 0
+Q5gYbivZ5ZZ5YOEZoEeLOBp3cPO2,recursion,2,3,True,The call stack
+Q5gYbivZ5ZZ5YOEZoEeLOBp3cPO2,recursion,3,2,False,3
+Q5gYbivZ5ZZ5YOEZoEeLOBp3cPO2,recursion,4,3,False,n == 0
+RLFI1VvVR2UDVls6U6mwN7264Ij2,arraylist,0,1,True,ArrayList can change size dynamically
+RLFI1VvVR2UDVls6U6mwN7264Ij2,arraylist,1,2,True,It creates a larger internal array and copies elements
+RLFI1VvVR2UDVls6U6mwN7264Ij2,arraylist,2,3,False,Adding an element at the beginning
+RLFI1VvVR2UDVls6U6mwN7264Ij2,arraylist,3,2,False,1
+RLFI1VvVR2UDVls6U6mwN7264Ij2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+RLFI1VvVR2UDVls6U6mwN7264Ij2,recursion,0,1,True,A base case
+RLFI1VvVR2UDVls6U6mwN7264Ij2,recursion,1,2,True,It runs forever until stack overflow
+RLFI1VvVR2UDVls6U6mwN7264Ij2,recursion,2,3,True,The call stack
+RLFI1VvVR2UDVls6U6mwN7264Ij2,recursion,3,2,True,6
+RLFI1VvVR2UDVls6U6mwN7264Ij2,recursion,4,3,False,n == 0
+SiVe6At6b4YNYAT8YLTp2SjJH692,arraylist,0,1,True,ArrayList can change size dynamically
+SiVe6At6b4YNYAT8YLTp2SjJH692,arraylist,1,2,True,It creates a larger internal array and copies elements
+SiVe6At6b4YNYAT8YLTp2SjJH692,arraylist,2,3,False,Adding an element at the beginning
+SiVe6At6b4YNYAT8YLTp2SjJH692,arraylist,3,2,False,0
+SiVe6At6b4YNYAT8YLTp2SjJH692,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+TM0zbujbRChHnBzPF9TOb4MpIyt2,arraylist,0,1,False,ArrayList uses less memory
+TM0zbujbRChHnBzPF9TOb4MpIyt2,arraylist,1,2,False,It throws an error
+TM0zbujbRChHnBzPF9TOb4MpIyt2,arraylist,2,3,False,Finding an element by value
+TM0zbujbRChHnBzPF9TOb4MpIyt2,arraylist,3,2,False,100
+TM0zbujbRChHnBzPF9TOb4MpIyt2,arraylist,4,4,False,When designing high-performance math computations that require storing primitive data types without the overhead of autoboxing.
+TM0zbujbRChHnBzPF9TOb4MpIyt2,recursion,0,1,True,A base case
+TM0zbujbRChHnBzPF9TOb4MpIyt2,recursion,1,2,False,It returns 0
+TM0zbujbRChHnBzPF9TOb4MpIyt2,recursion,2,3,False,The cache
+TM0zbujbRChHnBzPF9TOb4MpIyt2,recursion,3,2,True,6
+TM0zbujbRChHnBzPF9TOb4MpIyt2,recursion,4,3,False,n == 0
+UEFc4hISm2WWn6EhHFmCsW7MnPI3,arraylist,0,1,True,ArrayList can change size dynamically
+UEFc4hISm2WWn6EhHFmCsW7MnPI3,arraylist,1,2,True,It creates a larger internal array and copies elements
+UEFc4hISm2WWn6EhHFmCsW7MnPI3,arraylist,2,3,True,Getting an element by index
+UEFc4hISm2WWn6EhHFmCsW7MnPI3,arraylist,3,2,False,1
+UEFc4hISm2WWn6EhHFmCsW7MnPI3,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+UEFc4hISm2WWn6EhHFmCsW7MnPI3,recursion,0,1,True,A base case
+UEFc4hISm2WWn6EhHFmCsW7MnPI3,recursion,1,2,True,It runs forever until stack overflow
+UEFc4hISm2WWn6EhHFmCsW7MnPI3,recursion,2,3,True,The call stack
+UEFc4hISm2WWn6EhHFmCsW7MnPI3,recursion,3,2,True,6
+UEFc4hISm2WWn6EhHFmCsW7MnPI3,recursion,4,3,True,n == 0 or n == 1
+UT2XX3w08wPgt6eIvWt8rzWriWF3,arraylist,0,1,True,ArrayList can change size dynamically
+UT2XX3w08wPgt6eIvWt8rzWriWF3,arraylist,1,2,False,It stops accepting new elements
+UT2XX3w08wPgt6eIvWt8rzWriWF3,arraylist,2,3,True,Getting an element by index
+UT2XX3w08wPgt6eIvWt8rzWriWF3,arraylist,3,2,False,100
+UT2XX3w08wPgt6eIvWt8rzWriWF3,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+UT2XX3w08wPgt6eIvWt8rzWriWF3,recursion,0,1,True,A base case
+UT2XX3w08wPgt6eIvWt8rzWriWF3,recursion,1,2,True,It runs forever until stack overflow
+UT2XX3w08wPgt6eIvWt8rzWriWF3,recursion,2,3,True,The call stack
+UT2XX3w08wPgt6eIvWt8rzWriWF3,recursion,3,2,False,12
+UT2XX3w08wPgt6eIvWt8rzWriWF3,recursion,4,3,False,n == 0
+VfueDMfg7xVn4MXINPaKd1pO50N2,arraylist,0,1,False,ArrayList uses less memory
+VfueDMfg7xVn4MXINPaKd1pO50N2,arraylist,1,2,True,It creates a larger internal array and copies elements
+VfueDMfg7xVn4MXINPaKd1pO50N2,arraylist,2,3,False,Finding an element by value
+VfueDMfg7xVn4MXINPaKd1pO50N2,arraylist,3,2,False,0
+VfueDMfg7xVn4MXINPaKd1pO50N2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+VfueDMfg7xVn4MXINPaKd1pO50N2,recursion,0,1,True,A base case
+VfueDMfg7xVn4MXINPaKd1pO50N2,recursion,1,2,True,It runs forever until stack overflow
+VfueDMfg7xVn4MXINPaKd1pO50N2,recursion,2,3,False,The heap
+VfueDMfg7xVn4MXINPaKd1pO50N2,recursion,3,2,True,6
+VfueDMfg7xVn4MXINPaKd1pO50N2,recursion,4,3,True,n == 0 or n == 1
+WFz2qbVG8Ub5SFyZTwzuybgZFMJ2,arraylist,0,1,True,ArrayList can change size dynamically
+WFz2qbVG8Ub5SFyZTwzuybgZFMJ2,arraylist,1,2,True,It creates a larger internal array and copies elements
+WFz2qbVG8Ub5SFyZTwzuybgZFMJ2,arraylist,2,3,True,Getting an element by index
+WFz2qbVG8Ub5SFyZTwzuybgZFMJ2,arraylist,3,2,True,10
+WFz2qbVG8Ub5SFyZTwzuybgZFMJ2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+WFz2qbVG8Ub5SFyZTwzuybgZFMJ2,recursion,0,1,True,A base case
+WFz2qbVG8Ub5SFyZTwzuybgZFMJ2,recursion,1,2,True,It runs forever until stack overflow
+WFz2qbVG8Ub5SFyZTwzuybgZFMJ2,recursion,2,3,True,The call stack
+WFz2qbVG8Ub5SFyZTwzuybgZFMJ2,recursion,3,2,True,6
+WFz2qbVG8Ub5SFyZTwzuybgZFMJ2,recursion,4,3,True,n == 0 or n == 1
+X8nQivwspCSJr5An9iq1trCe7KR2,arraylist,0,1,True,ArrayList can change size dynamically
+X8nQivwspCSJr5An9iq1trCe7KR2,arraylist,1,2,True,It creates a larger internal array and copies elements
+X8nQivwspCSJr5An9iq1trCe7KR2,arraylist,2,3,False,Finding an element by value
+X8nQivwspCSJr5An9iq1trCe7KR2,arraylist,3,2,True,10
+X8nQivwspCSJr5An9iq1trCe7KR2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+X8nQivwspCSJr5An9iq1trCe7KR2,recursion,0,1,True,A base case
+X8nQivwspCSJr5An9iq1trCe7KR2,recursion,1,2,True,It runs forever until stack overflow
+X8nQivwspCSJr5An9iq1trCe7KR2,recursion,2,3,True,The call stack
+X8nQivwspCSJr5An9iq1trCe7KR2,recursion,3,2,True,6
+X8nQivwspCSJr5An9iq1trCe7KR2,recursion,4,3,True,n == 0 or n == 1
+Yxs6ep3KjPYkHdAqKahkafkUHZs1,arraylist,0,1,True,ArrayList can change size dynamically
+Yxs6ep3KjPYkHdAqKahkafkUHZs1,arraylist,1,2,True,It creates a larger internal array and copies elements
+Yxs6ep3KjPYkHdAqKahkafkUHZs1,arraylist,2,3,True,Getting an element by index
+Yxs6ep3KjPYkHdAqKahkafkUHZs1,arraylist,3,2,True,10
+Yxs6ep3KjPYkHdAqKahkafkUHZs1,arraylist,4,4,True,When the ArrayList has many elements to copy
+ZlvLCVTICFR8tBlGbCIGv5752Lf2,arraylist,0,1,True,ArrayList can change size dynamically
+ZlvLCVTICFR8tBlGbCIGv5752Lf2,arraylist,1,2,True,It creates a larger internal array and copies elements
+ZlvLCVTICFR8tBlGbCIGv5752Lf2,arraylist,2,3,True,Getting an element by index
+ZlvLCVTICFR8tBlGbCIGv5752Lf2,arraylist,3,2,True,10
+ZlvLCVTICFR8tBlGbCIGv5752Lf2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+ZlvLCVTICFR8tBlGbCIGv5752Lf2,recursion,0,1,True,A base case
+ZlvLCVTICFR8tBlGbCIGv5752Lf2,recursion,1,2,True,It runs forever until stack overflow
+ZlvLCVTICFR8tBlGbCIGv5752Lf2,recursion,2,3,True,The call stack
+ZlvLCVTICFR8tBlGbCIGv5752Lf2,recursion,3,2,True,6
+ZlvLCVTICFR8tBlGbCIGv5752Lf2,recursion,4,3,True,n == 0 or n == 1
+c2MXSYceS4XYMEnn3MAwQcQlbak1,arraylist,0,1,True,ArrayList can change size dynamically
+c2MXSYceS4XYMEnn3MAwQcQlbak1,arraylist,1,2,True,It creates a larger internal array and copies elements
+c2MXSYceS4XYMEnn3MAwQcQlbak1,arraylist,2,3,True,Getting an element by index
+c2MXSYceS4XYMEnn3MAwQcQlbak1,arraylist,3,2,True,10
+c2MXSYceS4XYMEnn3MAwQcQlbak1,arraylist,4,4,False,When implementing direct memory mapping with fixed buffer sizes for low-level hardware interfacing.
+c2MXSYceS4XYMEnn3MAwQcQlbak1,recursion,0,1,True,A base case
+c2MXSYceS4XYMEnn3MAwQcQlbak1,recursion,1,2,True,It runs forever until stack overflow
+c2MXSYceS4XYMEnn3MAwQcQlbak1,recursion,2,3,True,The call stack
+c2MXSYceS4XYMEnn3MAwQcQlbak1,recursion,3,2,False,3
+c2MXSYceS4XYMEnn3MAwQcQlbak1,recursion,4,3,True,n == 0 or n == 1
+c7KI5GHsSEdjcEm00XjghgtERo73,arraylist,0,1,True,ArrayList can change size dynamically
+c7KI5GHsSEdjcEm00XjghgtERo73,arraylist,1,2,True,It creates a larger internal array and copies elements
+c7KI5GHsSEdjcEm00XjghgtERo73,arraylist,2,3,False,Adding an element at the beginning
+c7KI5GHsSEdjcEm00XjghgtERo73,arraylist,3,2,False,1
+c7KI5GHsSEdjcEm00XjghgtERo73,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+c7KI5GHsSEdjcEm00XjghgtERo73,recursion,0,1,True,A base case
+c7KI5GHsSEdjcEm00XjghgtERo73,recursion,1,2,True,It runs forever until stack overflow
+c7KI5GHsSEdjcEm00XjghgtERo73,recursion,2,3,True,The call stack
+c7KI5GHsSEdjcEm00XjghgtERo73,recursion,3,2,False,3
+c7KI5GHsSEdjcEm00XjghgtERo73,recursion,4,3,True,n == 0 or n == 1
+cva8aUm1erWRXr4LN8puvAxR9pH3,arraylist,0,1,True,ArrayList can change size dynamically
+cva8aUm1erWRXr4LN8puvAxR9pH3,arraylist,1,2,True,It creates a larger internal array and copies elements
+cva8aUm1erWRXr4LN8puvAxR9pH3,arraylist,2,3,False,Adding an element at the beginning
+cva8aUm1erWRXr4LN8puvAxR9pH3,arraylist,3,2,True,10
+cva8aUm1erWRXr4LN8puvAxR9pH3,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+dHxuuttlnKOQ7XlEe9BYqSTTrqi1,arraylist,0,1,False,ArrayList uses less memory
+dHxuuttlnKOQ7XlEe9BYqSTTrqi1,arraylist,1,2,False,It throws an error
+dHxuuttlnKOQ7XlEe9BYqSTTrqi1,arraylist,2,3,False,Finding an element by value
+dHxuuttlnKOQ7XlEe9BYqSTTrqi1,arraylist,3,2,False,1
+dHxuuttlnKOQ7XlEe9BYqSTTrqi1,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+dHxuuttlnKOQ7XlEe9BYqSTTrqi1,recursion,0,1,False,A return type of int
+dHxuuttlnKOQ7XlEe9BYqSTTrqi1,recursion,1,2,False,The compiler prevents it
+dHxuuttlnKOQ7XlEe9BYqSTTrqi1,recursion,2,3,True,The call stack
+dHxuuttlnKOQ7XlEe9BYqSTTrqi1,recursion,3,2,False,3
+dHxuuttlnKOQ7XlEe9BYqSTTrqi1,recursion,4,3,True,n == 0 or n == 1
+fxKWPTaDCGXI2dz7mbLsAqHU0CU2,arraylist,0,1,True,ArrayList can change size dynamically
+fxKWPTaDCGXI2dz7mbLsAqHU0CU2,arraylist,1,2,True,It creates a larger internal array and copies elements
+fxKWPTaDCGXI2dz7mbLsAqHU0CU2,arraylist,2,3,False,Adding an element at the beginning
+fxKWPTaDCGXI2dz7mbLsAqHU0CU2,arraylist,3,2,False,0
+fxKWPTaDCGXI2dz7mbLsAqHU0CU2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+gBOUb9Di6GadfkDvQLnrX73otG03,arraylist,0,1,True,ArrayList can change size dynamically
+gBOUb9Di6GadfkDvQLnrX73otG03,arraylist,1,2,True,It creates a larger internal array and copies elements
+gBOUb9Di6GadfkDvQLnrX73otG03,arraylist,2,3,True,Getting an element by index
+gBOUb9Di6GadfkDvQLnrX73otG03,arraylist,3,2,False,1
+gBOUb9Di6GadfkDvQLnrX73otG03,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+gBOUb9Di6GadfkDvQLnrX73otG03,recursion,0,1,True,A base case
+gBOUb9Di6GadfkDvQLnrX73otG03,recursion,1,2,True,It runs forever until stack overflow
+gBOUb9Di6GadfkDvQLnrX73otG03,recursion,2,3,False,The heap
+gBOUb9Di6GadfkDvQLnrX73otG03,recursion,3,2,True,6
+gBOUb9Di6GadfkDvQLnrX73otG03,recursion,4,3,False,n == 0
+hC4w6MdexjQl2Ph4EouutrCFRoG3,arraylist,0,1,False,ArrayList is faster for all operations
+hC4w6MdexjQl2Ph4EouutrCFRoG3,arraylist,1,2,True,It creates a larger internal array and copies elements
+hC4w6MdexjQl2Ph4EouutrCFRoG3,arraylist,2,3,True,Getting an element by index
+hC4w6MdexjQl2Ph4EouutrCFRoG3,arraylist,3,2,True,10
+hC4w6MdexjQl2Ph4EouutrCFRoG3,arraylist,4,4,False,When designing high-performance math computations that require storing primitive data types without the overhead of autoboxing.
+hC4w6MdexjQl2Ph4EouutrCFRoG3,recursion,0,1,True,A base case
+hC4w6MdexjQl2Ph4EouutrCFRoG3,recursion,1,2,False,It returns 0
+hC4w6MdexjQl2Ph4EouutrCFRoG3,recursion,2,3,True,The call stack
+hC4w6MdexjQl2Ph4EouutrCFRoG3,recursion,3,2,True,6
+hC4w6MdexjQl2Ph4EouutrCFRoG3,recursion,4,3,True,n == 0 or n == 1
+ho7VWbC1MxT1kafPK2XvjodzKik2,arraylist,0,1,True,ArrayList can change size dynamically
+ho7VWbC1MxT1kafPK2XvjodzKik2,arraylist,1,2,True,It creates a larger internal array and copies elements
+ho7VWbC1MxT1kafPK2XvjodzKik2,arraylist,2,3,False,Adding an element at the beginning
+ho7VWbC1MxT1kafPK2XvjodzKik2,arraylist,3,2,False,1
+ho7VWbC1MxT1kafPK2XvjodzKik2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+ho7VWbC1MxT1kafPK2XvjodzKik2,recursion,0,1,True,A base case
+ho7VWbC1MxT1kafPK2XvjodzKik2,recursion,1,2,True,It runs forever until stack overflow
+ho7VWbC1MxT1kafPK2XvjodzKik2,recursion,2,3,True,The call stack
+ho7VWbC1MxT1kafPK2XvjodzKik2,recursion,3,2,True,6
+ho7VWbC1MxT1kafPK2XvjodzKik2,recursion,4,3,True,n == 0 or n == 1
+jjrhR6j2KBM2ljWc6hI8G5TtoCD2,arraylist,0,1,True,ArrayList can change size dynamically
+jjrhR6j2KBM2ljWc6hI8G5TtoCD2,arraylist,1,2,True,It creates a larger internal array and copies elements
+jjrhR6j2KBM2ljWc6hI8G5TtoCD2,arraylist,2,3,False,Adding an element at the beginning
+jjrhR6j2KBM2ljWc6hI8G5TtoCD2,arraylist,3,2,False,1
+jjrhR6j2KBM2ljWc6hI8G5TtoCD2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+jjrhR6j2KBM2ljWc6hI8G5TtoCD2,recursion,0,1,True,A base case
+jjrhR6j2KBM2ljWc6hI8G5TtoCD2,recursion,1,2,True,It runs forever until stack overflow
+jjrhR6j2KBM2ljWc6hI8G5TtoCD2,recursion,2,3,True,The call stack
+jjrhR6j2KBM2ljWc6hI8G5TtoCD2,recursion,3,2,True,6
+jjrhR6j2KBM2ljWc6hI8G5TtoCD2,recursion,4,3,True,n == 0 or n == 1
+jnHhdJjyzSg7NGN35wTPo7uBnfo2,arraylist,0,1,False,ArrayList uses less memory
+jnHhdJjyzSg7NGN35wTPo7uBnfo2,arraylist,1,2,False,It throws an error
+jnHhdJjyzSg7NGN35wTPo7uBnfo2,arraylist,2,3,True,Getting an element by index
+jnHhdJjyzSg7NGN35wTPo7uBnfo2,arraylist,3,2,True,10
+jnHhdJjyzSg7NGN35wTPo7uBnfo2,arraylist,4,4,False,When designing high-performance math computations that require storing primitive data types without the overhead of autoboxing.
+jnHhdJjyzSg7NGN35wTPo7uBnfo2,recursion,0,1,True,A base case
+jnHhdJjyzSg7NGN35wTPo7uBnfo2,recursion,1,2,True,It runs forever until stack overflow
+jnHhdJjyzSg7NGN35wTPo7uBnfo2,recursion,2,3,True,The call stack
+jnHhdJjyzSg7NGN35wTPo7uBnfo2,recursion,3,2,True,6
+jnHhdJjyzSg7NGN35wTPo7uBnfo2,recursion,4,3,True,n == 0 or n == 1
+jxesNDSnbaaXFNl6W1gtPmRpnsl1,arraylist,0,1,True,ArrayList can change size dynamically
+jxesNDSnbaaXFNl6W1gtPmRpnsl1,arraylist,1,2,True,It creates a larger internal array and copies elements
+jxesNDSnbaaXFNl6W1gtPmRpnsl1,arraylist,2,3,False,Finding an element by value
+jxesNDSnbaaXFNl6W1gtPmRpnsl1,arraylist,3,2,False,0
+jxesNDSnbaaXFNl6W1gtPmRpnsl1,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+jxesNDSnbaaXFNl6W1gtPmRpnsl1,recursion,0,1,True,A base case
+jxesNDSnbaaXFNl6W1gtPmRpnsl1,recursion,1,2,True,It runs forever until stack overflow
+jxesNDSnbaaXFNl6W1gtPmRpnsl1,recursion,2,3,True,The call stack
+jxesNDSnbaaXFNl6W1gtPmRpnsl1,recursion,3,2,True,6
+jxesNDSnbaaXFNl6W1gtPmRpnsl1,recursion,4,3,True,n == 0 or n == 1
+mIXe2bIDutdkPH2CxfTEW3X8IuS2,arraylist,0,1,True,ArrayList can change size dynamically
+mIXe2bIDutdkPH2CxfTEW3X8IuS2,arraylist,1,2,True,It creates a larger internal array and copies elements
+mIXe2bIDutdkPH2CxfTEW3X8IuS2,arraylist,2,3,True,Getting an element by index
+mIXe2bIDutdkPH2CxfTEW3X8IuS2,arraylist,3,2,False,0
+mIXe2bIDutdkPH2CxfTEW3X8IuS2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+mIXe2bIDutdkPH2CxfTEW3X8IuS2,recursion,0,1,True,A base case
+mIXe2bIDutdkPH2CxfTEW3X8IuS2,recursion,1,2,True,It runs forever until stack overflow
+mIXe2bIDutdkPH2CxfTEW3X8IuS2,recursion,2,3,True,The call stack
+mIXe2bIDutdkPH2CxfTEW3X8IuS2,recursion,3,2,True,6
+mIXe2bIDutdkPH2CxfTEW3X8IuS2,recursion,4,3,False,n == 0
+nJQDUoUKyCZtYOrXBhCa1vVQM5F2,arraylist,0,1,True,ArrayList can change size dynamically
+nJQDUoUKyCZtYOrXBhCa1vVQM5F2,arraylist,1,2,True,It creates a larger internal array and copies elements
+nJQDUoUKyCZtYOrXBhCa1vVQM5F2,arraylist,2,3,True,Getting an element by index
+nJQDUoUKyCZtYOrXBhCa1vVQM5F2,arraylist,3,2,True,10
+nJQDUoUKyCZtYOrXBhCa1vVQM5F2,arraylist,4,4,False,When implementing direct memory mapping with fixed buffer sizes for low-level hardware interfacing.
+nJQDUoUKyCZtYOrXBhCa1vVQM5F2,recursion,0,1,True,A base case
+nJQDUoUKyCZtYOrXBhCa1vVQM5F2,recursion,1,2,True,It runs forever until stack overflow
+nJQDUoUKyCZtYOrXBhCa1vVQM5F2,recursion,2,3,True,The call stack
+nJQDUoUKyCZtYOrXBhCa1vVQM5F2,recursion,3,2,True,6
+nJQDUoUKyCZtYOrXBhCa1vVQM5F2,recursion,4,3,False,n == 0
+nMcq9BcrQLShkt80j8BrTy4Lhdo2,arraylist,0,1,True,ArrayList can change size dynamically
+nMcq9BcrQLShkt80j8BrTy4Lhdo2,arraylist,1,2,True,It creates a larger internal array and copies elements
+nMcq9BcrQLShkt80j8BrTy4Lhdo2,arraylist,2,3,False,Adding an element at the beginning
+nMcq9BcrQLShkt80j8BrTy4Lhdo2,arraylist,3,2,False,0
+nMcq9BcrQLShkt80j8BrTy4Lhdo2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+nMcq9BcrQLShkt80j8BrTy4Lhdo2,recursion,0,1,True,A base case
+nMcq9BcrQLShkt80j8BrTy4Lhdo2,recursion,1,2,True,It runs forever until stack overflow
+nMcq9BcrQLShkt80j8BrTy4Lhdo2,recursion,2,3,True,The call stack
+nMcq9BcrQLShkt80j8BrTy4Lhdo2,recursion,3,2,False,9
+nMcq9BcrQLShkt80j8BrTy4Lhdo2,recursion,4,3,False,n == 0
+nuTLU4inbkgo3DhEysbjqZcRwo32,arraylist,0,1,True,ArrayList can change size dynamically
+nuTLU4inbkgo3DhEysbjqZcRwo32,arraylist,1,2,False,It stops accepting new elements
+nuTLU4inbkgo3DhEysbjqZcRwo32,arraylist,2,3,False,Adding an element at the beginning
+nuTLU4inbkgo3DhEysbjqZcRwo32,arraylist,3,2,True,10
+nuTLU4inbkgo3DhEysbjqZcRwo32,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+nuTLU4inbkgo3DhEysbjqZcRwo32,recursion,0,1,True,A base case
+nuTLU4inbkgo3DhEysbjqZcRwo32,recursion,1,2,True,It runs forever until stack overflow
+nuTLU4inbkgo3DhEysbjqZcRwo32,recursion,2,3,True,The call stack
+nuTLU4inbkgo3DhEysbjqZcRwo32,recursion,3,2,True,6
+nuTLU4inbkgo3DhEysbjqZcRwo32,recursion,4,3,False,n == 0
+p8WOtXcwwUUwME4kpYo3SpxqRd52,arraylist,0,1,False,ArrayList uses less memory
+p8WOtXcwwUUwME4kpYo3SpxqRd52,arraylist,1,2,True,It creates a larger internal array and copies elements
+p8WOtXcwwUUwME4kpYo3SpxqRd52,arraylist,2,3,True,Getting an element by index
+p8WOtXcwwUUwME4kpYo3SpxqRd52,arraylist,3,2,False,0
+p8WOtXcwwUUwME4kpYo3SpxqRd52,arraylist,4,4,False,"When storing a fixed number of elements whose maximum size is known at compile time and will not change, such as the 12 months of the year or 7 days of the week."
+p8WOtXcwwUUwME4kpYo3SpxqRd52,recursion,0,1,True,A base case
+p8WOtXcwwUUwME4kpYo3SpxqRd52,recursion,1,2,True,It runs forever until stack overflow
+p8WOtXcwwUUwME4kpYo3SpxqRd52,recursion,2,3,True,The call stack
+p8WOtXcwwUUwME4kpYo3SpxqRd52,recursion,3,2,True,6
+p8WOtXcwwUUwME4kpYo3SpxqRd52,recursion,4,3,False,n == 0
+r8Z55stG3Pe5HLEvIJVapLi9gMV2,arraylist,0,1,True,ArrayList can change size dynamically
+r8Z55stG3Pe5HLEvIJVapLi9gMV2,arraylist,1,2,True,It creates a larger internal array and copies elements
+r8Z55stG3Pe5HLEvIJVapLi9gMV2,arraylist,2,3,False,Finding an element by value
+r8Z55stG3Pe5HLEvIJVapLi9gMV2,arraylist,3,2,False,0
+r8Z55stG3Pe5HLEvIJVapLi9gMV2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+r8Z55stG3Pe5HLEvIJVapLi9gMV2,recursion,0,1,True,A base case
+r8Z55stG3Pe5HLEvIJVapLi9gMV2,recursion,1,2,True,It runs forever until stack overflow
+r8Z55stG3Pe5HLEvIJVapLi9gMV2,recursion,2,3,True,The call stack
+r8Z55stG3Pe5HLEvIJVapLi9gMV2,recursion,3,2,True,6
+r8Z55stG3Pe5HLEvIJVapLi9gMV2,recursion,4,3,True,n == 0 or n == 1
+rahQ5wQyQNOynXJ7Xz4wBvbih5z1,arraylist,0,1,True,ArrayList can change size dynamically
+rahQ5wQyQNOynXJ7Xz4wBvbih5z1,arraylist,1,2,True,It creates a larger internal array and copies elements
+rahQ5wQyQNOynXJ7Xz4wBvbih5z1,arraylist,2,3,True,Getting an element by index
+rahQ5wQyQNOynXJ7Xz4wBvbih5z1,arraylist,3,2,True,10
+rahQ5wQyQNOynXJ7Xz4wBvbih5z1,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+rahQ5wQyQNOynXJ7Xz4wBvbih5z1,recursion,0,1,True,A base case
+rahQ5wQyQNOynXJ7Xz4wBvbih5z1,recursion,1,2,True,It runs forever until stack overflow
+rahQ5wQyQNOynXJ7Xz4wBvbih5z1,recursion,2,3,True,The call stack
+rahQ5wQyQNOynXJ7Xz4wBvbih5z1,recursion,3,2,True,6
+rahQ5wQyQNOynXJ7Xz4wBvbih5z1,recursion,4,3,True,n == 0 or n == 1
+sA4W1vv57hYuNsFgrO74TFQB9lt1,arraylist,0,1,True,ArrayList can change size dynamically
+sA4W1vv57hYuNsFgrO74TFQB9lt1,arraylist,1,2,True,It creates a larger internal array and copies elements
+sA4W1vv57hYuNsFgrO74TFQB9lt1,arraylist,2,3,False,Adding an element at the beginning
+sA4W1vv57hYuNsFgrO74TFQB9lt1,arraylist,3,2,False,1
+sA4W1vv57hYuNsFgrO74TFQB9lt1,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+sA4W1vv57hYuNsFgrO74TFQB9lt1,recursion,0,1,True,A base case
+sA4W1vv57hYuNsFgrO74TFQB9lt1,recursion,1,2,True,It runs forever until stack overflow
+sA4W1vv57hYuNsFgrO74TFQB9lt1,recursion,2,3,False,The hard drive
+sA4W1vv57hYuNsFgrO74TFQB9lt1,recursion,3,2,False,9
+sA4W1vv57hYuNsFgrO74TFQB9lt1,recursion,4,3,False,n == 0
+sBsPIGe4HWM4uX2Wh7ib88DPVdD3,arraylist,0,1,True,ArrayList can change size dynamically
+sBsPIGe4HWM4uX2Wh7ib88DPVdD3,arraylist,1,2,True,It creates a larger internal array and copies elements
+sBsPIGe4HWM4uX2Wh7ib88DPVdD3,arraylist,2,3,True,Getting an element by index
+sBsPIGe4HWM4uX2Wh7ib88DPVdD3,arraylist,3,2,True,10
+sBsPIGe4HWM4uX2Wh7ib88DPVdD3,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+sBsPIGe4HWM4uX2Wh7ib88DPVdD3,recursion,0,1,True,A base case
+sBsPIGe4HWM4uX2Wh7ib88DPVdD3,recursion,1,2,True,It runs forever until stack overflow
+sBsPIGe4HWM4uX2Wh7ib88DPVdD3,recursion,2,3,True,The call stack
+sBsPIGe4HWM4uX2Wh7ib88DPVdD3,recursion,3,2,False,3
+sBsPIGe4HWM4uX2Wh7ib88DPVdD3,recursion,4,3,False,n == 0
+sop6PXrgnVYTjAu8flbuErEY1AW2,arraylist,0,1,True,ArrayList can change size dynamically
+sop6PXrgnVYTjAu8flbuErEY1AW2,arraylist,1,2,True,It creates a larger internal array and copies elements
+sop6PXrgnVYTjAu8flbuErEY1AW2,arraylist,2,3,True,Getting an element by index
+sop6PXrgnVYTjAu8flbuErEY1AW2,arraylist,3,2,False,1
+sop6PXrgnVYTjAu8flbuErEY1AW2,arraylist,4,4,False,When designing high-performance math computations that require storing primitive data types without the overhead of autoboxing.
+sop6PXrgnVYTjAu8flbuErEY1AW2,recursion,0,1,True,A base case
+sop6PXrgnVYTjAu8flbuErEY1AW2,recursion,1,2,True,It runs forever until stack overflow
+sop6PXrgnVYTjAu8flbuErEY1AW2,recursion,2,3,True,The call stack
+sop6PXrgnVYTjAu8flbuErEY1AW2,recursion,3,2,True,6
+sop6PXrgnVYTjAu8flbuErEY1AW2,recursion,4,3,True,n == 0 or n == 1
+sqZI2SLCZ8XQ7CNYHmlyuMtRkF62,arraylist,0,1,True,ArrayList can change size dynamically
+sqZI2SLCZ8XQ7CNYHmlyuMtRkF62,arraylist,1,2,True,It creates a larger internal array and copies elements
+sqZI2SLCZ8XQ7CNYHmlyuMtRkF62,arraylist,2,3,False,Adding an element at the beginning
+sqZI2SLCZ8XQ7CNYHmlyuMtRkF62,arraylist,3,2,False,1
+sqZI2SLCZ8XQ7CNYHmlyuMtRkF62,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+sqZI2SLCZ8XQ7CNYHmlyuMtRkF62,recursion,0,1,True,A base case
+sqZI2SLCZ8XQ7CNYHmlyuMtRkF62,recursion,1,2,True,It runs forever until stack overflow
+sqZI2SLCZ8XQ7CNYHmlyuMtRkF62,recursion,2,3,True,The call stack
+sqZI2SLCZ8XQ7CNYHmlyuMtRkF62,recursion,3,2,True,6
+sqZI2SLCZ8XQ7CNYHmlyuMtRkF62,recursion,4,3,False,n == 0
+ufa3OoBKJzdMedjoMwdj65xW7Eo2,arraylist,0,1,True,ArrayList can change size dynamically
+ufa3OoBKJzdMedjoMwdj65xW7Eo2,arraylist,1,2,True,It creates a larger internal array and copies elements
+ufa3OoBKJzdMedjoMwdj65xW7Eo2,arraylist,2,3,True,Getting an element by index
+ufa3OoBKJzdMedjoMwdj65xW7Eo2,arraylist,3,2,False,0
+ufa3OoBKJzdMedjoMwdj65xW7Eo2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+ufa3OoBKJzdMedjoMwdj65xW7Eo2,recursion,0,1,True,A base case
+ufa3OoBKJzdMedjoMwdj65xW7Eo2,recursion,1,2,True,It runs forever until stack overflow
+ufa3OoBKJzdMedjoMwdj65xW7Eo2,recursion,2,3,True,The call stack
+ufa3OoBKJzdMedjoMwdj65xW7Eo2,recursion,3,2,True,6
+ufa3OoBKJzdMedjoMwdj65xW7Eo2,recursion,4,3,True,n == 0 or n == 1
+vK1vk3qedUc6g4Nq0RhvvcbRJJR2,arraylist,0,1,True,ArrayList can change size dynamically
+vK1vk3qedUc6g4Nq0RhvvcbRJJR2,arraylist,1,2,False,It throws an error
+vK1vk3qedUc6g4Nq0RhvvcbRJJR2,arraylist,2,3,False,Adding an element at the beginning
+vK1vk3qedUc6g4Nq0RhvvcbRJJR2,arraylist,3,2,False,0
+vK1vk3qedUc6g4Nq0RhvvcbRJJR2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+vK1vk3qedUc6g4Nq0RhvvcbRJJR2,recursion,0,1,True,A base case
+vK1vk3qedUc6g4Nq0RhvvcbRJJR2,recursion,1,2,True,It runs forever until stack overflow
+vK1vk3qedUc6g4Nq0RhvvcbRJJR2,recursion,2,3,True,The call stack
+vK1vk3qedUc6g4Nq0RhvvcbRJJR2,recursion,3,2,True,6
+vK1vk3qedUc6g4Nq0RhvvcbRJJR2,recursion,4,3,True,n == 0 or n == 1
+wSlcdOBLGygvUA7l2rhVJEn5RC52,arraylist,0,1,True,ArrayList can change size dynamically
+wSlcdOBLGygvUA7l2rhVJEn5RC52,arraylist,1,2,True,It creates a larger internal array and copies elements
+wSlcdOBLGygvUA7l2rhVJEn5RC52,arraylist,2,3,False,Adding an element at the beginning
+wSlcdOBLGygvUA7l2rhVJEn5RC52,arraylist,3,2,False,1
+wSlcdOBLGygvUA7l2rhVJEn5RC52,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+wSlcdOBLGygvUA7l2rhVJEn5RC52,recursion,0,1,False,A loop
+wSlcdOBLGygvUA7l2rhVJEn5RC52,recursion,1,2,False,The compiler prevents it
+wSlcdOBLGygvUA7l2rhVJEn5RC52,recursion,2,3,True,The call stack
+wSlcdOBLGygvUA7l2rhVJEn5RC52,recursion,3,2,True,6
+wSlcdOBLGygvUA7l2rhVJEn5RC52,recursion,4,3,True,n == 0 or n == 1
+widdp0juTwVy6MS26Gm7fL5KcSY2,arraylist,0,1,True,ArrayList can change size dynamically
+widdp0juTwVy6MS26Gm7fL5KcSY2,arraylist,1,2,False,It throws an error
+widdp0juTwVy6MS26Gm7fL5KcSY2,arraylist,2,3,False,Adding an element at the beginning
+widdp0juTwVy6MS26Gm7fL5KcSY2,arraylist,3,2,False,0
+widdp0juTwVy6MS26Gm7fL5KcSY2,arraylist,4,4,False,"When storing a fixed number of elements whose maximum size is known at compile time and will not change, such as the 12 months of the year or 7 days of the week."
+widdp0juTwVy6MS26Gm7fL5KcSY2,recursion,0,1,True,A base case
+widdp0juTwVy6MS26Gm7fL5KcSY2,recursion,1,2,True,It runs forever until stack overflow
+widdp0juTwVy6MS26Gm7fL5KcSY2,recursion,2,3,True,The call stack
+widdp0juTwVy6MS26Gm7fL5KcSY2,recursion,3,2,False,3
+widdp0juTwVy6MS26Gm7fL5KcSY2,recursion,4,3,False,n == 0
+wuV5aQXTjVbNHyLxgOfTrXpkNMv2,arraylist,0,1,True,ArrayList can change size dynamically
+wuV5aQXTjVbNHyLxgOfTrXpkNMv2,arraylist,1,2,True,It creates a larger internal array and copies elements
+wuV5aQXTjVbNHyLxgOfTrXpkNMv2,arraylist,2,3,False,Adding an element at the beginning
+wuV5aQXTjVbNHyLxgOfTrXpkNMv2,arraylist,3,2,False,0
+wuV5aQXTjVbNHyLxgOfTrXpkNMv2,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+wuV5aQXTjVbNHyLxgOfTrXpkNMv2,recursion,0,1,True,A base case
+wuV5aQXTjVbNHyLxgOfTrXpkNMv2,recursion,1,2,True,It runs forever until stack overflow
+wuV5aQXTjVbNHyLxgOfTrXpkNMv2,recursion,2,3,False,The cache
+wuV5aQXTjVbNHyLxgOfTrXpkNMv2,recursion,3,2,False,9
+wuV5aQXTjVbNHyLxgOfTrXpkNMv2,recursion,4,3,False,n == 0
+xRmTBf5lXSOnjK789d5On6Xslf43,arraylist,0,1,True,ArrayList can change size dynamically
+xRmTBf5lXSOnjK789d5On6Xslf43,arraylist,1,2,False,It stops accepting new elements
+xRmTBf5lXSOnjK789d5On6Xslf43,arraylist,2,3,False,Adding an element at the beginning
+xRmTBf5lXSOnjK789d5On6Xslf43,arraylist,3,2,False,100
+xRmTBf5lXSOnjK789d5On6Xslf43,arraylist,4,4,True,When handling business logic for flexibility with an unknown or dynamically changing size (such as managing items in a user's e-commerce shopping cart) and needing built-in functionality like sorting or filtering.
+xRmTBf5lXSOnjK789d5On6Xslf43,recursion,0,1,True,A base case
+xRmTBf5lXSOnjK789d5On6Xslf43,recursion,1,2,False,The compiler prevents it
+xRmTBf5lXSOnjK789d5On6Xslf43,recursion,2,3,False,The heap
+xRmTBf5lXSOnjK789d5On6Xslf43,recursion,3,2,True,6
+xRmTBf5lXSOnjK789d5On6Xslf43,recursion,4,3,False,n == 0

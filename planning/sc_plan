@@ -1,0 +1,142 @@
+Planned Steps
+1. Data Preparation
+- Filter completed sessions
+- Create efficiency and stability metrics
+- Inspect distributions and clean anomalies
+2. Descriptive Analysis
+- Summaries of duration, quiz performance, efficiency, and pacing metrics
+- Visualizations of performance vs. time and stability vs. efficiency
+3. Hypothesis Testing
+- Compare efficiency across conditions
+- Correlation and regression between stability and efficiency
+- Condition differences in pacing stability
+4. Numerical Characterization of “Best Sessions”
+- Identify sessions that achieve strong performance for minimal time
+- Compare these curves across conditions
+5. Final Report
+- Visualizations, statistical results, and interpretation
+- Discussion of how structured scaffolding shapes learning behavior
+
+
+1. Core quantities you’ll use
+You already have everything you need:
+Outcome: quiz_percentage
+Time cost: duration_seconds
+Pacing / stability: avg_response_time, std_response_time, rapid_response_pct
+Condition: condition (character scaffold, non‑character scaffold, direct chat)
+Topic: session_type (arraylist vs recursion)
+
+You can define:
+Learning efficiency: efficiency (quiz_percentage / duration_seconds)
+quiz_percentage
+duration_seconds
+Pacing stability (one simple index):
+stability = 1 / (1 + std_response_time)
+avg_response_time
+std_response_time
+rapid_response_pct
+
+(higher = more consistent pacing)
+You can also use rapid_response_pct as a “burstiness” measure.
+2. Hypotheses you can actually say out loud
+H1: Scaffolded vs direct chat efficiency
+Null (H0):
+There is no difference in average learning efficiency between scaffolded conditions and direct chat.
+μ eff, scaffold = μ eff, direct
+Alternative (H1):
+Scaffolded sessions have higher learning efficiency than direct chat. μ eff, scaffold > μ eff, direct
+Y
+ou can also compare the two scaffolded variants if you want, but this is the clean core.
+H2: Pacing stability and efficiency
+Null (H0):   Pacing stability is not related to learning efficiency.
+(Correlation between stability and efficiency = 0.)
+Alternative (H1):   More stable pacing is associated with higher learning efficiency.
+(Correlation > 0.)
+You can phrase this as: “Students who interact in a more consistent rhythm tend to learn more per unit time.”
+H3: Condition differences in pacing stability
+Null (H0):
+There is no difference in pacing stability across conditions. μ stab = μ stab,
+=
+μ stabdirect
+Alternative (H1):
+Scaffolded conditions show more stable pacing than direct chat.
+(At least one scaffolded condition has higher stability than direct chat.)
+This ties your “behavioral dynamics” story to the instructional design.
+
+
+3. Step‑by‑step plan for the project
+Step 1: Data prep
+- Filter: keep only status == "completed".
+- Check: no missing values in quiz_percentage, duration_seconds, pacing features.
+Create variables:
+    efficiency = quiz_percentage / duration_seconds
+    stability = 1 / (1 + std_response_time)
+    maybe burstiness = rapid_response_pct
+
+Step 2: Descriptive overview
+Tables / plots:
+- Mean and SD of quiz_percentage
+- duration_seconds
+- efficiency
+- stability by condition.
+Scatterplot: duration_seconds (x) vs quiz_percentage (y), colored by condition (like your existing figure).
+Scatterplot: stability (x) vs efficiency (y).
+
+This sets up the story visually.
+
+Step 3: Test H1 (efficiency by condition)
+Analysis:
+Compare efficiency across conditions.
+Since each student has two sessions, you can:
+either treat sessions as independent (simpler), or
+do a mixed model with user_id as random effect (fancier, but optional for SC).
+Stats options:
+ANOVA / linear model: efficiency ~ condition + session_type
+Or pairwise comparisons scaffold vs direct.
+Output:
+Means per condition
+p‑values / confidence intervals
+A plot: boxplot or violin of efficiency by condition.
+Step 4: Test H2 (stability ↔ efficiency)
+Analysis:
+Compute correlation between stability and efficiency (overall and by condition).
+Fit a simple regression:
+efficiency ~ stability
+where:
+efficiency= β0 + β1 ⋅ stability + ϵ
+Output:
+- Correlation coefficient + p‑value
+- Regression slope + CI
+- Scatterplot with regression line.
+
+Step 5: Test H3 (stability by condition)
+Analysis:
+- Compare stability across conditions (ANOVA or linear model).
+- Optionally control for session_type.
+Output:
+- Means per condition
+- p‑values
+- Plot:
+- stability by condition.
+
+Step 6: “Best sessions” visualization (your efficiency picture)
+You don’t have to say “Pareto frontier.” You can call it:
+“Best‑performing sessions for a given time budget.”
+
+For each condition:
+- Plot duration_seconds vs quiz_percentage.
+- Highlight sessions that are not beaten by any other session that is both:
+-- shorter in time and
+-- higher in score.
+
+Describe them as:
+
+“Sessions that achieve the most learning for their time cost.”
+This is conceptually the frontier, but you can talk about it in plain language.
+
+Step 7: Wrap the story
+Your narrative:
+- Scaffolded conditions learn more per minute than direct chat.
+- Scaffolded conditions show more consistent pacing.
+- More consistent pacing is linked to better efficiency.
+So: structured AI tutoring doesn’t just improve scores—it shapes how students work over time.
