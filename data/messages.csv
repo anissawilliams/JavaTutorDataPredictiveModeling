@@ -1,4 +1,4 @@
-user_id,session_type,message_index,role,timestamp,content_length,content
+user_id,session_type,message_id,role,timestamp,content_length,content
 1N7UGUGuQHhcaUyk5AnPXTVxsDd2,arraylist,0,assistant,1769194844.1282735,94,Hello! I'm here to answer your questions about Dynamic ArrayList. What would you like to know?
 1N7UGUGuQHhcaUyk5AnPXTVxsDd2,arraylist,1,user,1769194860.1011305,49,explain to me like im 5 about dynamic arraylists\
 1N7UGUGuQHhcaUyk5AnPXTVxsDd2,arraylist,2,assistant,1769194867.7837987,1410,"Okay! Imagine you have a toy box where you keep your toys. At first, your toy box can only hold 5 toys. If you get more toys than that, your toy box needs to get bigger to fit them all.
