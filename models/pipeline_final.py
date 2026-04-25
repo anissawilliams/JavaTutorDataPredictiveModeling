@@ -95,7 +95,7 @@ FEATURE_SET_SHORT = (
     else "16feat_full"
 )
 
-OUT = f"../out/{FEATURE_MODE}feat/"
+OUT = f"../out/{FEATURE_MODE}feat/latest/"
 DATA = "../data/"
 
 # ============================================================
@@ -117,12 +117,18 @@ def load_and_prepare_data(features):
     df = df[df["has_both"] == True].copy()
     df["has_both_enc"] = df["has_both"].astype(int)
 
+
+
     # Fill missing values for selected features
     df[features] = df[features].fillna(df[features].median())
 
     # Targets
     y_cont = df["quiz_percentage"]
     y_bin = (df["quiz_percentage"] >= 70).astype(int)
+
+    print("Filtered dataset size:", len(df))
+    print("High performers:", sum(y_bin == 1))
+    print("Low performers:", sum(y_bin == 0))
 
     # Scale
     scaler = StandardScaler()
@@ -602,6 +608,7 @@ def run_pipeline():
         X_test = result["X_test"]
         y_train = result["y_train"]
         y_test = result["y_test"]
+        print(name, len(X_test))
 
         plot_confusion_matrix(
             model, X_train, X_test, y_train, y_test,
