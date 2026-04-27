@@ -1,6 +1,0 @@
-Category	Features
-Engagement level	total_messages, user_messages, assistant_messages, duration_seconds, messages_per_minute
-Engagement quality	avg_user_message_length, back_and_forth_count, pacing metrics
-Tutor behavior
-Learning outcomes	quiz_score, quiz_percentage
-Condition	1, 2, 3
